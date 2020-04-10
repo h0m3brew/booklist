@@ -1,0 +1,15 @@
+{
+	"auth": {
+		"booklist77c6bf66": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	},
+	"storage": {
+		"UploadStaging": {
+			"service": "S3",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}

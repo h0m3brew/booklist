@@ -1,0 +1,20 @@
+{
+    "booklist": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-booklist-booklist-112127-authRole",
+            "UnauthRoleArn": "arn:aws:iam::923801996275:role/amplify-booklist-booklist-112127-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::923801996275:role/amplify-booklist-booklist-112127-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-booklist-booklist-112127-deployment",
+            "UnauthRoleName": "amplify-booklist-booklist-112127-unauthRole",
+            "StackName": "amplify-booklist-booklist-112127",
+            "StackId": "arn:aws:cloudformation:us-east-1:923801996275:stack/amplify-booklist-booklist-112127/55fd4ea0-7b47-11ea-bc25-0ac97ebd7097",
+            "AmplifyAppId": "d1jxrflbz8e2qm"
+        },
+        "categories": {
+            "auth": {
+                "booklist77c6bf66": {}
+            }
+        }
+    }
+}
